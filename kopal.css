@@ -200,10 +200,11 @@ th:hover{
     .image{
         position: static;
         margin: auto;
+        padding-top: 25px;
     }
 
     #about_me{
-        padding: 10px 80px;
+        padding: 30px 150px;
     }
 
     .tp{
